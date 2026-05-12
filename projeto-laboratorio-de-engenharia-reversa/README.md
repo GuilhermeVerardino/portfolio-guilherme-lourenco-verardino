@@ -21,7 +21,7 @@ O projeto alcançou um alto nível de fidelidade visual e funcional, demonstrand
 * **Escala Responsiva:** Desenvolvi uma lógica de container que escala inteligentemente o QR Code (Canvas/SVG), prevenindo overflow mesmo em resoluções de até 1000px.
 * **Design Sistêmico:** Aprendi a utilizar gradientes cromáticos dinâmicos no CSS e a personalizar componentes de UI para uma estética "Brutalist Minimalista".
  
-![Figura 2: Detalhe das ferramentas de ajuste de Dots e Corners](https://placehold.co/800x400/701a75/ffffff?text=Styling+Options+Detail)
+![Figura 2: Detalhe das ferramentas de ajuste de Dots e Corners](./image/image32.png)
 *Figura 2: Análise das opções de customização de pixels e cantos.*
  
 ## 🔧 Como Executar
