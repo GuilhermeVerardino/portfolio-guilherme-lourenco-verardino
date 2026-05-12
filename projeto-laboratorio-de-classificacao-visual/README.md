@@ -5,7 +5,7 @@ Este projeto consiste em um experimento prático desenvolvido para a atividade L
 
 O objetivo principal é mitigar a "confiança cega" em sistemas automatizados, demonstrando que a inteligência artificial reflete diretamente os preconceitos presentes em seu conjunto de treinamento. O sistema processa imagens em tempo real para distinguir entre "Perfil Liderança" e "Perfil Operacional", utilizando critérios estereotipados para documentar falhas críticas de inferência.
 
-![Dashboard de Classificação](https://placehold.co/800x400?text=Dashboard+de+Classificacao+de+Vies)
+![Dashboard de Classificação](.image/image1.png)
 *Figura 1: Interface de treinamento e teste exibindo a classificação de perfis baseada em padrões visuais.*
 
 ## 🚀 Tecnologias Utilizadas
