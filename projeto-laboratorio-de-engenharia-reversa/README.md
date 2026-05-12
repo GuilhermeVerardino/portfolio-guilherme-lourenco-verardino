@@ -29,8 +29,5 @@ O projeto alcançou um alto nível de fidelidade visual e funcional, demonstrand
 2. Instale as dependências: `npm install`.
 3. Inicie o servidor: `npm run dev`.
  
-![Figura 3: Representação visual do pipeline de renderização reativa](https://placehold.co/800x400/e5e5e5/701a75?text=Data+Flow+and+Rendering+Pipeline)
-*Figura 3: Representação visual do pipeline de dados e renderização.*
- 
 ---
 [Voltar ao início](https://github.com/GuilhermeVerardino/portfolio-guilherme-lourenco-verardino)
