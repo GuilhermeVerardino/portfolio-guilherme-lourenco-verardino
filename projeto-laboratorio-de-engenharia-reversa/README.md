@@ -33,4 +33,4 @@ O projeto alcançou um alto nível de fidelidade visual e funcional, demonstrand
 *Figura 3: Representação visual do pipeline de dados e renderização.*
  
 ---
-[Voltar ao início](https://github.com/guilv56)
+[Voltar ao início](https://github.com/GuilhermeVerardino/portfolio-guilherme-lourenco-verardino)
