@@ -24,6 +24,7 @@ O projeto alcançou um nível de maturidade técnica elevado, integrando múltip
 
 ![Análise de Desempenho](https://placehold.co/800x400/2c2c2c/701a75?text=Analytics+and+Usage+Metrics)
 *Figura 2: Monitoramento de métricas de uso e engajamento via Firebase.*
+[Voltar ao início](https://github.com/GuilhermeVerardino/portfolio-guilherme-lourenco-verardino)
 
 ## 🔧 Como Executar
 1. Clone o repositório.
@@ -33,4 +34,4 @@ npm install
 *
 
 
-[Voltar ao início](https://github.com/GuilhermeVerardino/portfolio-guilherme-lourenco-verardino)
+
