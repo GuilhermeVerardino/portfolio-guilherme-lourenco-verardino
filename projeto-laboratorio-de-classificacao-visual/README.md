@@ -1,4 +1,4 @@
-# 🎬 Laboratório de Classificação Visual: Viés e Ética em IA
+<img width="1902" height="908" alt="{1A1D7DE0-A382-43D9-BEE1-112E7CA70FAC}" src="https://github.com/user-attachments/assets/41e6ebad-78b2-4f77-839b-c3eea8621940" /># 🎬 Laboratório de Classificação Visual: Viés e Ética em IA
 
 ## 📝 Descrição do Projeto
 Este projeto consiste em um experimento prático desenvolvido para a atividade Laboratório de Classificação Visual, focado na identificação e análise de vieses em modelos de inteligência artificial. Utilizando o *Teachable Machine* do Google, treinamos um modelo de classificação de imagem com dados deliberadamente enviesados para observar como a seleção de dados corrompe a lógica algorítmica.
@@ -21,7 +21,7 @@ O experimento fornece evidências sólidas de como o viés de seleção impacta 
 *   **Consequência Social:** O sistema **marginaliza** indivíduos que não **correspondem** aos estereótipos de treinamento, **causando** invisibilidade profissional e exclusão sistêmica. Essa classificação incorreta **perpetua** desigualdades históricas e **afeta** o desenvolvimento de carreiras baseadas puramente no mérito e na diversidade.
 *   **Ação Mitigadora:** A intervenção *Human-in-the-loop* **garante** a equidade através de uma curadoria diversa e crítica. Um auditor humano **avalia** o dataset antes do treinamento, **identifica** lacunas representativas e **insere** novos dados que **anulam** correlações discriminatórias, assegurando que o modelo final **reflita** a pluralidade humana de forma justa.
 
-![Análise de Métricas](https://placehold.co/800x400?text=Registro+de+Falha+de+Classificacao)
+![Análise de Métricas](./image/imagem3.png)
 *Figura 2: Registro do erro de classificação (falso positivo/negativo) devido ao viés dos dados.*
 
 ## 🔧 Como Executar
@@ -31,5 +31,3 @@ O experimento fornece evidências sólidas de como o viés de seleção impacta 
 4.  **Realize** testes de inferência com pessoas ou objetos que não se encaixem nos padrões capturados.
 5.  **Documente** o erro e analise os impactos éticos utilizando o memorial acima.
 
-![Pipeline de Dados](https://placehold.co/800x400?text=Pipeline+Ethical+AI+Training)
-*Figura 3: Representação visual do pipeline de dados focado em curadoria ética e auditoria.*
