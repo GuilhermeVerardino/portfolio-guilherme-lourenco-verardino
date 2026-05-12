@@ -5,7 +5,7 @@ Este projeto consiste em um gerador avançado de QR Codes de alta fidelidade, in
  
 Desenvolvido com foco em **Clean Code e Flexibilidade**, o sistema processa parâmetros complexos de estilização — como geometria de pixels, estilos de cantos e inserção de logotipos centrais — utilizando a biblioteca `qr-code-styling` de forma reativa para fornecer um preview instantâneo e preciso.
  
-![Figura 1: Dashboard principal do sistema exibindo opções de estilização e preview LIVE](https://placehold.co/800x400/1a1a1a/ffffff?text=Dashboard+QR+CODE+Styling)
+![./image/image1.png)
 *Figura 1: Dashboard principal do sistema exibindo opções de estilização e preview LIVE.*
  
 ## 🚀 Tecnologias Utilizadas
