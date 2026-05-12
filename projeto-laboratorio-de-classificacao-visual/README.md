@@ -1,4 +1,4 @@
-<img width="1902" height="908" alt="{1A1D7DE0-A382-43D9-BEE1-112E7CA70FAC}" src="https://github.com/user-attachments/assets/41e6ebad-78b2-4f77-839b-c3eea8621940" /># 🎬 Laboratório de Classificação Visual: Viés e Ética em IA
+🎬 Laboratório de Classificação Visual: Viés e Ética em IA
 
 ## 📝 Descrição do Projeto
 Este projeto consiste em um experimento prático desenvolvido para a atividade Laboratório de Classificação Visual, focado na identificação e análise de vieses em modelos de inteligência artificial. Utilizando o *Teachable Machine* do Google, treinamos um modelo de classificação de imagem com dados deliberadamente enviesados para observar como a seleção de dados corrompe a lógica algorítmica.
