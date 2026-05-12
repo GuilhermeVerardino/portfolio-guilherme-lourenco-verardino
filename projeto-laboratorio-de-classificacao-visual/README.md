@@ -1,7 +1,7 @@
 # 🎬 Laboratório de Classificação Visual: Viés e Ética em IA
 
 ## 📝 Descrição do Projeto
-Este projeto consiste em um experimento prático desenvolvido para a atividade **AT1 - Laboratório de Classificação Visual**, focado na identificação e análise de vieses em modelos de inteligência artificial. Utilizando o *Teachable Machine* do Google, treinamos um modelo de classificação de imagem com dados deliberadamente enviesados para observar como a seleção de dados corrompe a lógica algorítmica.
+Este projeto consiste em um experimento prático desenvolvido para a atividade Laboratório de Classificação Visual, focado na identificação e análise de vieses em modelos de inteligência artificial. Utilizando o *Teachable Machine* do Google, treinamos um modelo de classificação de imagem com dados deliberadamente enviesados para observar como a seleção de dados corrompe a lógica algorítmica.
 
 O objetivo principal é mitigar a "confiança cega" em sistemas automatizados, demonstrando que a inteligência artificial reflete diretamente os preconceitos presentes em seu conjunto de treinamento. O sistema processa imagens em tempo real para distinguir entre "Perfil Liderança" e "Perfil Operacional", utilizando critérios estereotipados para documentar falhas críticas de inferência.
 
