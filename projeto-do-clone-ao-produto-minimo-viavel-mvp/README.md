@@ -22,7 +22,7 @@ O projeto alcançou um nível de maturidade técnica elevado, integrando múltip
 *   **Escalabilidade:** Arquitetura baseada em Context API para gestão de estado global e persistência de preferências do usuário.
 *   **IA Generativa:** Integração de assistente virtual para guiar o usuário na escolha de melhores práticas de contraste e legibilidade.
 
-![Análise de Desempenho](./image/image1.png)
+![Análise de Desempenho](./image/dashboard.png)
 
 *Figura 2: Monitoramento de métricas de uso e engajamento via Firebase.*
 
