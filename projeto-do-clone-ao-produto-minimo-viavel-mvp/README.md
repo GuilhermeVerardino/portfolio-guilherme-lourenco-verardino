@@ -5,7 +5,7 @@ Este projeto consiste em um laboratório avançado de criação e estilização 
 
 Desenvolvido como uma aplicação Full-Stack moderna (2024), o sistema utiliza uma arquitetura robusta para processar personalizações em tempo real, oferecendo exportações em múltiplos formatos (PNG, SVG, JPEG, WEBP) e armazenamento seguro em nuvem para usuários autenticados.
 
-![Dashboard Principal](https://placehold.co/1200x600/1e1e1e/white?text=QR+Lab+Studio+Dashboard+Preview)
+![Dashboard Principal](./image/image1.png)
 *Figura 1: Dashboard principal do sistema exibindo ferramentas de estilização em tempo real.*
 
 ## 🚀 Tecnologias Utilizadas
