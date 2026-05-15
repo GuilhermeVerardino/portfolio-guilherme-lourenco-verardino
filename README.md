@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [6º] período de [Ciência da Computação] na [Universidade Cidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - Desenvolvimento Backend / Análise de Dados], durante minha trajetória acadêmica venho desenvolvendo projetos voltados para tecnologia aplicada, resolução lógica de problemas e integração entre software e usabilidade prática.
+Atualmente cursando o [6º] período de [Ciência da Computação] na [Universidade Cidade de São Paulo]. Tenho grande interesse em tecnologia, desenvolvimento de software e inovação, buscando constantemente aprender novas ferramentas e aprimorar minhas habilidades técnicas. Gosto de trabalhar na criação de soluções eficientes para problemas reais, utilizando programação, lógica e criatividade para desenvolver aplicações funcionais, acessíveis e com impacto positivo [Área de Interesse - Desenvolvimento Backend / Análise de Dados], durante minha trajetória acadêmica venho desenvolvendo projetos voltados para tecnologia aplicada, resolução lógica de problemas e integração entre software e usabilidade prática.
  
 * **Habilidades Técnicas:** [Python, SQL, HTML, CSS, PHP].
 * **Habilidades Socioemocionais:** Possuo perfil colaborativo, boa comunicação interpessoal, facilidade para aprender novas tecnologias e foco em resultados. Atuo de forma proativa, organizada e responsável em ambientes dinâmicos, valorizando trabalho em equipe, comprometimento e melhoria contínua. Tenho facilidade em lidar com desafios, aprender rapidamente e buscar soluções eficientes para diferentes situações.
