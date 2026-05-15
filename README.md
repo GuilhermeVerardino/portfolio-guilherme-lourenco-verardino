@@ -14,8 +14,8 @@
 Atualmente cursando o [6º] período de [Ciência da Computação] na [Universidade Cidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - Desenvolvimento Backend / Análise de Dados].
  
 * **Habilidades Técnicas:** [Python, SQL, HTML, CSS, PHP].
-* **Habilidades Socioemocionais:** Possuo perfil colaborativo, boa comunicação interpessoal e foco em resultados, atuando de forma proativa e responsável em ambientes dinâmicos.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto/Evento da UNICID] onde desenvolvi [um controle joystick para pessoas com mobilidade reduzida em uma das mãos.].
+* **Habilidades Socioemocionais:** Possuo perfil colaborativo, boa comunicação interpessoal, facilidade para aprender novas tecnologias e foco em resultados. Atuo de forma proativa, organizada e responsável em ambientes dinâmicos, valorizando trabalho em equipe, comprometimento e melhoria contínua. Tenho facilidade em lidar com desafios, aprender rapidamente e buscar soluções eficientes para diferentes situações.
+* **Experiência/Projetos Relevantes:** Atuei em projetos acadêmicos e eventos da UNICID, incluindo o desenvolvimento de um controle joystick voltado para pessoas com mobilidade reduzida em uma das mãos, buscando acessibilidade e inclusão através da tecnologia. Além disso, participei de atividades relacionadas à prototipagem de sistemas, integração com banco de dados e desenvolvimento de soluções digitais utilizando ferramentas modernas..
  
 ---
  
