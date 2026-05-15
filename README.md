@@ -53,4 +53,25 @@ Atualmente cursando o [6º] período de [Ciência da Computação] na [Universid
 | **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
  
 ---
+## 🏆 Certificados
+
+- Excel Intermediário
+- Introdução à Inteligência Artificial
+- Banco de Dados SQL
+- Lógica de Programação
+- Fundamentos de Desenvolvimento Web
+- Ferramentas de Produtividade e Colaboração
+
+---
+
+## 🚀 Diferenciais
+
+- Facilidade de aprendizado
+- Perfil analítico
+- Boa comunicação interpessoal
+- Organização e proatividade
+- Trabalho em equipe
+- Interesse contínuo em novas tecnologias
+- Foco em resolução de problemas
+- Adaptabilidade em ambientes dinâmicos
  
