@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [6º] período de [Ciência da Computação] na [Universidade Cidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - Desenvolvimento Backend / Análise de Dados/ ].
+Atualmente cursando o [6º] período de [Ciência da Computação] na [Universidade Cidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - Desenvolvimento Backend / Análise de Dados].
  
 * **Habilidades Técnicas:** [Python, SQL, HTML, CSS, PHP].
 * **Habilidades Socioemocionais:** Possuo perfil colaborativo, boa comunicação interpessoal e foco em resultados, atuando de forma proativa e responsável em ambientes dinâmicos.
